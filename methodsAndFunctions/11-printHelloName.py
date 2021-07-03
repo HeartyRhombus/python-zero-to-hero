@@ -2,3 +2,5 @@
 # NOTE: Define the funciton, but do not run it!
 # Also, do not use f-strings, as they are not supported in this coding exercise.
 
+def myfunc(name):
+    print('Hello {}'.format(name))
